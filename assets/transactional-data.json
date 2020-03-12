@@ -1,0 +1,36 @@
+{
+    "retailStoreID": "0010066",
+    "workStationID": "15",
+    "sequenceNumber": "32",
+    "businessDayDate": "2020-03-12",
+    "beginDateTime": "2020-03-12T19:06:32",
+    "endDateTime": "2020-03-12T19:07:78",
+    "operatorID": "265",
+    "currencyCode": "AUD",
+    "lineItem": {
+        "sequenceNumber": "1",
+        "stock": {
+            "itemID": "GH394F92JFD93",
+            "sku": "P_42823735",
+            "merchandiseHierarchy": "455",
+            "description": "Peek-A-Boo Cuddle Toy",
+            "regularSalesUnitPrice": "7.00",
+            "ActualSalesUnitPrice": "7.00",
+            "extendedAmount": "7.00",
+            "extendedDiscountAmount": "0.00",
+            "quanity": "1",
+            "tax": {
+                "amount": "0.70",
+                "percent": "10",
+                "reason": "GST 10%",
+                "taxRule": "1"
+            }
+        }
+    },
+    "payment": {
+        "method": "credit card",
+        "cardType": "Mastercard",
+        "hashedCard": "6731",
+        "expirationDate": "1020"
+    }
+}
